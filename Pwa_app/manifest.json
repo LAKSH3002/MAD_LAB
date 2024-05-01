@@ -1,3 +1,5 @@
+// add manifest details as per the project PS you have.
+// Use PWA builder to get the android icons and its json file.
 {
     "name": "This is a watch web app",
     "short_name": "watchx",
